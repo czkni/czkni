@@ -1,7 +1,3 @@
-# 💫 Sobre mim:
-Com 22 anos de idade, sou um profissional comprometido e focado em atingir objetivos e completar tarefas. Tenho paixão por aprender e estar atualizado com as mais recentes tecnologias.<br><br>Possuo conhecimento em programação tanto no Frontend quanto no Backend, trabalhando com tecnologias como React, Jquery, HTML, CSS, JS, Java, C#, PHP e Python. Tenho experiência em lidar com bancos de dados como Mysql, Postgres.<br><br>Além disso, possuo habilidades em edição de imagens e vídeos, utilizando softwares como Photoshop, After Effects, Premiere, Sony Vegas, Illustrator e Krita. Também trabalho com criação de artes para redes sociais, produtos de marketing e identidade visual.<br><br>Obrigado por ler minha bio e fique à vontade para entrar em contato comigo se precisar de ajuda em algum projeto ou se tiver alguma oportunidade interessante para discutirmos!
-
-
 ## 🌐 Mídias Sociais:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sfxnix) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Czk#1391) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-c-jakymiu-b919bb24b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@artsbynx) 
 
